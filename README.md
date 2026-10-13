@@ -13,8 +13,12 @@ CS grad from Wilfrid Laurier University, based in the Toronto area. I like full 
 **Tools:** Linux · Git · Docker · AWS Tools · Claude Code
 
 ## Featured projects
-- **[GTOTutor](https://gtotutor.app/)**: Play realistic situations graded against GTO Principles with an AI Coach and analysis to learn your leaks 
+- **[GTOTutor](https://gtotutor.app/)**: Play realistic situations graded against GTO Principles with an AI Coach and analysis to learn your leaks
+
+https://github.com/user-attachments/assets/915d295c-27e1-4b30-b7fd-cd2db16bb31d
+
 - **[Linux Hyprland Inspired Portfolio](https://jordanca0.github.io/portfolio/)**: My portfolio website designed after Linux Hyprland Ricing Setups, contains a fully operational terminal
+<img width="1900" height="921" alt="Screenshot 2026-10-13 190843" src="https://github.com/user-attachments/assets/d564e0f3-e03f-4278-8ecb-d346fbb7dd1f" />
 
 ## Working On:
 - **[Sony SRS-X11 AI](link)**: Trying to turn my old speaker into my own Alexa 
