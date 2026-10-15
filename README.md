@@ -17,7 +17,7 @@ CS grad from Wilfrid Laurier University, based in the Toronto area. I like full 
 
 https://github.com/user-attachments/assets/915d295c-27e1-4b30-b7fd-cd2db16bb31d
 
-- **[PortfolioOS](https://jordanca0.github.io/portfolio/)**: My portfolio website designed after Linux Hyprland Ricing Setups, contains a fully operational terminal
+- **[PortfolioOS](https://jordanca0.github.io/portfolioOS/)**: My portfolio website designed after Linux Hyprland Ricing Setups, contains a fully operational terminal
 <img width="1900" height="921" alt="Screenshot 2026-10-13 190843" src="https://github.com/user-attachments/assets/d564e0f3-e03f-4278-8ecb-d346fbb7dd1f" />
 
 ## Working On:
